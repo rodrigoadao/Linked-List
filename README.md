@@ -1,12 +1,12 @@
 # Linked List!
 
-# Files
+## Files
 
 - main.c
 - LinkedList.h
 - LinkedList.c
 
-#Functions
+## Functions
 
 - void free_list(List* list);
 - int size_of_list(List* list);
@@ -19,7 +19,7 @@
 - int remove_by_id(List *list, int id);
 - int list_data(List *list);
 
-#How to Compile in Command Prompt?
+## How to Compile in Command Prompt?
 
 - gcc -o main main.c LinkedList.c LinkedList.h
 
